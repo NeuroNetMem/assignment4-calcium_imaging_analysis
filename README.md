@@ -4,13 +4,12 @@ For this assignment you will need to create a new environmnet called Caiman cont
 Installationthrough conda-forge (August 2019) can be found here [CaImAn](https://github.com/flatironinstitute/CaImAn/blob/master/docs/source/Installation.rst)
 
 
-
 Before starting the assignment remember to activate caiman environment by doing conda activate caiman.
 
 
 In this assignment you will work with multiple files. It is recommendable to separate those files according to the step of processing they belong to.
 
-
+All data used in this assignment was collected in the Memory Dynamics Lab by *Evelien Schut*.
 
 Project Organization
 ------------ 
