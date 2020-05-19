@@ -9,11 +9,11 @@ Before starting the assignment remember to activate caiman environment by doing 
 
 In this assignment you will work with multiple files. It is recommendable to separate those files according to the step of processing they belong to. All files will be share together in the **Dropbox** account, and correspond to the following steps:
 
-- caiman_video_trial_*.tif - > raw data files
-- calcium_video_trial_*.hdf5 -> source extracted files
-- calcium_video_trial_*_corr.npy -> correlation image files for multiple sessions
-- traces_example.npy -> calcium temporal traces corresponding to multiple sessions
-- traces_timeline.pkl -> timeline for multiple sessions alignment
+- caiman_video_trial_*.tif - > raw data files (6 files)
+- calcium_video_trial_*.hdf5 -> source extracted files (5 files)
+- calcium_video_trial_*_corr.npy -> correlation image files for multiple sessions (5 files)
+- traces_example.npy -> calcium temporal traces corresponding to multiple sessions (1 file)
+- traces_timeline.pkl -> timeline for multiple sessions alignment (1 file)
 
 
 All data used in this assignment was collected in the **Memory Dynamics Lab** by **Evelien Schut**.
