@@ -9,7 +9,7 @@ Before starting the assignment remember to activate caiman environment by doing 
 
 In this assignment you will work with multiple files. It is recommendable to separate those files according to the step of processing they belong to.
 
-All data used in this assignment was collected in the Memory Dynamics Lab by *Evelien Schut*.
+All data used in this assignment was collected in the **Memory Dynamics Lab** by **Evelien Schut**.
 
 Project Organization
 ------------ 
