@@ -18,6 +18,7 @@ In this assignment you will work with multiple files. It is recommendable to sep
 
 All data used in this assignment was collected in the **Memory Dynamics Lab** by **Evelien Schut**.
 
+Please consult Brightspace for the data and tutorial videos related to this assignment.
 
 Project Organization
 ------------ 
